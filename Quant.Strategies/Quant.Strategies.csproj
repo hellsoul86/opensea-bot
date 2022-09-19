@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CryptoExchange.Net\CryptoExchange.Net.csproj" />
+    <ProjectReference Include="..\Quant.Exchanges\Quant.Exchanges.csproj" />
+  </ItemGroup>
+
+</Project>
