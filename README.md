@@ -1,0 +1,2 @@
+# opensea-bot
+nft monitor
